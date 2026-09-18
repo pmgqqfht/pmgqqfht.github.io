@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "d1d192b4bac318c2b56ceeb8",
+  "owner": "pmgqqfht",
+  "repo": "pmgqqfht.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "565796a4b41da213393726d6",
+      "a": "跑路云(Paoluz)",
+      "b": "加速器官网",
+      "entity": "跑路云(Paoluz)",
+      "brand": "跑路云(Paoluz)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f51cc686310cb8b95665b7137590e6ed6a1a14bf7060f16a8d974c50ed5550d8",
+      "content": {
+        "primary_entity": "跑路云(Paoluz)",
+        "keyword1": "跑路云(Paoluz)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_HERO_SUBTITLE": "跑路云多设备订阅方案",
+          "AI_HERO_INTRO": "跑路云(Paoluz)提供按流量与设备数分级的海外加速订阅，覆盖基础浏览到企业级路由需求。用户依在线设备数量与月流量选择套餐，按客户端教程导入订阅后即可在常用设备上使用。",
+          "AI_VISUAL_TITLE": "跑路云订阅选择",
+          "AI_HIGHLIGHT_1": "月付与年付灵活切换",
+          "AI_HIGHLIGHT_2": "按设备数量匹配套餐",
+          "AI_HIGHLIGHT_3": "流媒体与专线场景可选",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户提供基础版、旗舰版与团队版三档订阅。基础版适合轻度浏览与少量设备；旗舰版增加流量、设备数并优化流媒体与游戏专线；团队版面向多设备与企业路由需求。",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURES_INTRO": "选择跑路云套餐时，重点确认每月流量、同时在线设备数量与使用场景。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版与团队版在同时在线设备数量上依次放宽，可按常用设备数量匹配。",
+          "AI_FEATURE_TITLE_2": "按周期定预算",
+          "AI_FEATURE_TEXT_2": "月付便于短期测试，年付折算后单价更低，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_3": "按场景挑节点",
+          "AI_FEATURE_TEXT_3": "普通线路满足日常浏览，IPLC专线与VIP节点面向游戏和企业路由。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLIENTS_INTRO": "在手机、电脑或路由器上安装对应客户端后导入跑路云订阅即可使用。",
+          "AI_GUIDE_TITLE": "三步配置订阅",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入，可按三个步骤在常用设备上配置跑路云。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据月流量、同时在线设备数和流媒体或专线需求，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "核对设备系统与客户端要求，路由器或企业路由需提前查看对应配置说明。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "获取订阅信息后，按所装客户端的文档步骤导入，即可在已授权设备上启用加速。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数、节点类型与支持服务上依次递进，可按需选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对跑路云套餐",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选择跑路云套餐，按客户端文档完成订阅导入即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度使用，每月流量满足日常浏览与轻度流媒体；旗舰版提供更多设备同时在线与专线加速；团队版面向多设备高流量需求。按设备数量和月流量选择即可。",
+          "AI_FAQ_ANSWER_2": "套餐允许的设备并发数不同，基础版较少，旗舰版居中，团队版最多。超出并发数会导致新设备无法连接，需先下线其他设备或升级套餐。",
+          "AI_FAQ_ANSWER_3": "支持按月或按年付费，按年付通常有价格优惠。具体续费与周期变更在客户端订阅页面按说明操作，套餐到期前可手动续费保持服务连续性。",
+          "AI_FAQ_ANSWER_4": "主流客户端均支持导入订阅链接，桌面端与移动端配置方式类似。遇到导入失败时，检查订阅链接是否完整、客户端版本是否过旧，或更换网络环境重试。",
+          "AI_FAQ_ANSWER_5": "先确认同时在线设备数，再估算每月流量消耗，最后考虑是否需要专线加速或优先支持。轻度用户选基础版，多设备用户选旗舰版，团队协作选团队版。",
+          "AI_FAQ_QUESTION_1": "跑路云(Paoluz)套餐如何选择？",
+          "AI_FAQ_QUESTION_2": "不同套餐的设备同时在线数量有什么区别？",
+          "AI_FAQ_QUESTION_3": "订阅可以按月还是按年付费？",
+          "AI_FAQ_QUESTION_4": "客户端导入订阅失败怎么办？",
+          "AI_FAQ_QUESTION_5": "如何判断自己适合哪一档套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e400b1324da67320e138944d15e28a37271eed2022efded1e2ca5fa8c749023f",
+    "sitemap.xml": "a498203af3d23181c8454737ac339d68ec6d25a4034c777ce11beb6766ac7cda",
+    "robots.txt": "cf8dc7e9fe0b20083f65d11f44b3e27fb94194a9ee7e9cca6b46d1a74ea7f9c8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "52211496101d4b8b5cac620a879f25527a55f6009be0fab9d010cdc678b2474a"
+}
